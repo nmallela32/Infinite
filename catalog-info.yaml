@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: infinite
+  description: Infinite is a software component developed by nmallela32, designed to provide scalable solutions for complex problems.
+  annotations:
+    github.com/project-slug: nmallela32/Infinite
+    jira/project-key: SCRUM
+    jira/label: backstage-component:infinite
+spec:
+  type: application
+  owner: ICS
+  lifecycle: experimental
